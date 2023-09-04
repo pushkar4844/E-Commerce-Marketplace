@@ -81,3 +81,4 @@ def searchApi(request):
         items = Items.objects.filter(name__icontains=search)
         items_serializer = ItemsSerializer(items, many=True)
         return JsonResponse(items_serializer.data, safe=False)
+// TODO: Implement user authentication
