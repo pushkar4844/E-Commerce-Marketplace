@@ -15,3 +15,4 @@ class Items(models.Model):
 class FavItems(models.Model):
     userId = models.CharField(primary_key=True, max_length=200)
     fitemId = models.JSONField(models.BigIntegerField(), null=True)
+// TODO: Define product schema
