@@ -82,3 +82,4 @@ def searchApi(request):
         items_serializer = ItemsSerializer(items, many=True)
         return JsonResponse(items_serializer.data, safe=False)
 // TODO: Implement user authentication
+// TODO: Implement cart feature
