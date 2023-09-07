@@ -83,3 +83,4 @@ def searchApi(request):
         return JsonResponse(items_serializer.data, safe=False)
 // TODO: Implement user authentication
 // TODO: Implement cart feature
+// TODO: Add product listing API
