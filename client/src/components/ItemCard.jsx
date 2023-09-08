@@ -62,3 +62,4 @@ export default function ItemCard(props) {
     </>
   );
 }
+// TODO: Design product card component
