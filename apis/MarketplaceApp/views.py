@@ -84,3 +84,4 @@ def searchApi(request):
 // TODO: Implement user authentication
 // TODO: Implement cart feature
 // TODO: Add product listing API
+// Code cleanup and minor fixes
