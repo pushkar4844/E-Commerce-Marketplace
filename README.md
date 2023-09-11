@@ -34,21 +34,6 @@ Deployment: Docker, Kubernetes (Helm Charts)
 
 Payment Integration: Stripe/PayPal
 
-📦 Folder Structure
-
-E-Commerce-Marketplace/
-├── apis/                   # Backend services (Django/Node.js APIs)
-│   ├── MarketplaceApp/     # Core business logic
-│   ├── payments/           # Payment processing services
-│   └── requirements.txt    # Python dependencies
-├── client/                 # Frontend React app
-│   ├── public/             # Static files
-│   └── src/               # React components and pages
-├── charts/                 # Helm charts for Kubernetes deployment
-├── helm-charts/           # Kubernetes configurations
-├── Dockerfile              # Docker configuration for deployment
-└── README.md               # Project documentation
-
 ⚙️ Installation
 
 1. Clone the Repository
