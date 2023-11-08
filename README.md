@@ -28,3 +28,4 @@ A scalable, full-stack e-commerce platform built to simulate real-world online b
 npm install
 npm start
 Log 2023-11-03
+Log 2023-11-08
